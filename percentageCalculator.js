@@ -3,4 +3,4 @@ const percentageCalculator = (number, total) => {
 };
 
 console.log('на сколько процентов прогрузился мецяц апрель')
-console.log(percentageCalculator(11, 30));
+console.log(percentageCalculator(6, 30));
